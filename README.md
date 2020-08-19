@@ -1,6 +1,7 @@
 # Github-Profile-Finder
-It's an web app, where you can search any github profile.
+It's an web app build with ReactJs framework, where you can search any github profile using the usrername. And also see it's repos, number of followers, etc.
 
-You can see it on this link 
+You can see the working app here :point_down:
+
 https://git-profile-finder.herokuapp.com
 
